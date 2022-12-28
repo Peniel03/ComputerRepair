@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ComputerRepair.DataAccess.Models.Payement">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQAAAAAAAACAAAAAAAAACAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Payement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerRepair.DataAccess.Models.Order">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>OAABgEAAAAACAAIAAABAAAgAAAAQQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerRepair.DataAccess.Models.RepairingService">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAACEAAAABAA=</HashCode>
+      <FileName>Models\RepairingService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerRepair.DataAccess.Models.RepairingTeam">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAgAAAAAAAAAAAAAABACAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\RepairingTeam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerRepair.DataAccess.Models.RepairingType">
+    <Position X="9.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABEAgAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\RepairingType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerRepair.DataAccess.Models.Review">
+    <Position X="8.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAEAAAAAABAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Models\Review.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerRepair.DataAccess.Models.User">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAEACAAAAAAAEAAQAwAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Models\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
